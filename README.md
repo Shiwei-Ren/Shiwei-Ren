@@ -4,7 +4,7 @@
 
 Hi! I'm **Shiwei Ren**.
 
-I'm currently a **1st-year PhD student** (2025~2030) at Nankai Universty.
+I'm currently a **1st-year PhD student** (2025~2030) at Nankai University.
 
 I am now focused on **3D reconstruction**.
 
