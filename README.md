@@ -8,4 +8,7 @@ I'm currently a **1st-year PhD student** (2025~2030) at Nankai Universty.
 
 I am now focused on **3D reconstruction**.
 
+### 🌟 Notable Contributions
+- [FastGS](https://github.com/fastgs/FastGS): owner
+
 📫 Contact: [Email](mailto:shiweiren@mail.nankai.edu.cn)
