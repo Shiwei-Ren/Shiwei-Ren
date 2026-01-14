@@ -9,7 +9,7 @@ Hi! I'm **Shiwei Ren**, a **1st-year PhD student** (2025–2030) at Nankai Unive
 - [**FastGS**](https://github.com/fastgs/FastGS): an effective training acceleration method for 3D Gaussian Splatting.
 
 
-📫 Email: shiweiren@mail.nankai.edu.cn
+📫 Email: renshiwei@mail.nankai.edu.cn
 
 👦 Personal Page: [https://shiwei-ren.github.io/](https://shiwei-ren.github.io/)
 
